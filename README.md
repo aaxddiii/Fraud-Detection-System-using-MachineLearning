@@ -1,4 +1,5 @@
 Fraud Detection System Using Machine Learning
+
 Logistic Regression | Random Forest | XGBoost
 
 This project is a Machine Learning–based Fraud Detection System developed as part of our academic submission for JECRC University – 7th Semester, CSE.
